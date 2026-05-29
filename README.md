@@ -5,9 +5,8 @@ created by Reaktor Innovations and University of Helsinki.
 Copy the template, paste it to your GitHub README and edit! -->
 
 
-# Project title
+# Lab Rat
 
-Lab rat
 
 ## Summary
 
